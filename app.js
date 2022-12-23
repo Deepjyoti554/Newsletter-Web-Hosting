@@ -36,7 +36,7 @@ app.post("/", function(req, res){
 
     const options = {
         method : "POST",
-        auth : "Deep:af31ca668bcfff36ed4a226c9405489bf-us21"
+        auth : "Deep:f31ca668bcfff36ed4a226c9405489bf-us21"
     }
 
     //SetUp the request
